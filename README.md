@@ -1,2 +1,2 @@
-# resume
-Resume - Jordan Huang 2026
+# portfolio
+Portfolio - 2026
